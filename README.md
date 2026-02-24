@@ -1,12 +1,12 @@
 # GENERATIVE-AI-PROJECTS
 
-GEN-AI-PROJECTS 
+## GEN-AI-PROJECTS 
 Generative AI and Python Automation Projects Collection
 Repository Overview
 This repository presents a structured collection of Generative Artificial Intelligence and Python-based automation projects, demonstrating practical implementation of transformer models, Natural Language Processing techniques, and structured data automation systems.
 Each project is designed with clarity, reproducibility, and educational value in mind, making this repository suitable for academic learning, AI experimentation, and professional portfolio presentation.
 ________________________________________
- Project 1: GenAI Text Generation Project Using GPT-2
+ ### Project 1: GenAI Text Generation Project Using GPT-2
 Project Overview
 This project presents a Generative Artificial Intelligence text generation system implemented using the GPT-2 transformer model via the Hugging Face Transformers pipeline. The system generates coherent and context-aware text based on a predefined input prompt.
 Objective
@@ -26,7 +26,7 @@ Applications
 •	Content automation systems
 •	Educational AI demonstrations
 ________________________________________
- Project 2: GenAI Semantic Similarity Project Using Sentence Transformers
+ ### Project 2: GenAI Semantic Similarity Project Using Sentence Transformers
 Project Overview
 This project implements a semantic similarity analysis system using the Sentence Transformers framework. The system converts two user-provided texts into dense vector embeddings and calculates their similarity using cosine similarity.
 Objective
@@ -47,7 +47,7 @@ Applications
 •	Semantic search engines
 •	Chatbot intent comparison
 ________________________________________
- Project 3: GenAI Sentiment-Based Review Analysis Using Transformers
+ ### Project 3: GenAI Sentiment-Based Review Analysis Using Transformers
 Project Overview
 This project presents an AI-driven sentiment analysis system that processes product reviews, classifies each sentence as positive or negative, and extracts structured pros and cons.
 Objective
@@ -68,7 +68,7 @@ Applications
 •	Customer satisfaction monitoring
 •	Automated review summarization
 ________________________________________
-Project 4: AI-Based Timetable Generator Using Python
+### Project 4: AI-Based Timetable Generator Using Python
 Project Overview
 This project implements an automated timetable generation system that dynamically creates academic schedules based on user-provided subjects, working days, and number of periods.
 Objective
@@ -87,7 +87,7 @@ Applications
 •	Academic planning tools
 •	Routine generation systems
 ________________________________________
- Project 5: AI-Based Meeting Minutes Generator Using Python
+ ### Project 5: AI-Based Meeting Minutes Generator Using Python
 Project Overview
 This project presents an automated Meeting Minutes Generator that collects meeting details, structures them systematically, and exports them as a formatted CSV file.
 Objective
@@ -113,14 +113,14 @@ ________________________________________
 •	PyTorch
 •	Pandas
 ________________________________________
- Overall Learning Outcomes
+ ## Overall Learning Outcomes
 This repository demonstrates:
 •	Practical implementation of Generative AI systems
 •	Hands-on experience with Transformer-based NLP models
 •	Automation of structured workflows using Python
 •	Real-world application of AI for productivity and analysis
 ________________________________________
- Conclusion
+ # Conclusion
 GEN-AI-PROJECTS-1 represents a structured and practical portfolio of Generative AI and automation-based implementations, suitable for academic demonstration, technical interviews, and professional showcasing in AI and data science domains.
 
 
